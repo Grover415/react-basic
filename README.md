@@ -1,6 +1,5 @@
 # react-basic
- * react-basic app to demonstrate react skills. 
-## How to contribute
- * PR's are welcome.
-## code of conduct
-
+#Local Env setup
+ - Install Node Js(from google)
+ - Install VSCode
+ - Install extensions for vscode(like theme, color tags)
