@@ -4,4 +4,3 @@
  - Install Node Js(from google)
  - Install VSCode
  - Install extensions for vscode(like theme, color tags)
-Welcome
