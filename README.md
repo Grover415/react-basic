@@ -7,6 +7,6 @@
 #Mac OS Setup 
 - Install homebrew https://brew.sh/
 - Install 
-        git     - brew install git
-        nodeJs  - brew install node
-        vscode  - brew install visual-studio-code
+  - git     : brew install git
+  - nodeJs  : brew install node
+  - vscode  : brew install visual-studio-code
