@@ -9,4 +9,4 @@
 - Install 
   - git     : brew install git
   - nodeJs  : brew install node
-  - vscode  : brew install visual-studio-code
+  - vscode  : brew install visual-studio-code (or any IDE you prefer.)
